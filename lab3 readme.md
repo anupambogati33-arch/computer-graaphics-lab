@@ -20,6 +20,6 @@ Result:
 
 A green circle appears on the screen at the specified center (xc, yc) with radius R. Each pixel appears slowly because of delay(50), so you can see the circle being drawn step by step. Inside the circle, the text appears: Shishir Bhattarai 240370 The circle drawing is smooth and symmetric because it uses the 8-way symmetry principle.
 
-Conclusion:
+ Conclusion:
 
-The program successfully demonstrates the Midpoint Circle Algorithm in C graphics. It illustrates the concept of symmetry to reduce computation (calculating one octant and reflecting points). Adding delays shows step-by-step pixel plotting, which helps in visual learning. Using outtextxy, you can label the circle with text at its center. This code is a good example of basic graphics programming in Turbo C and teaches circle plotting without using the circle() function.
+The program successfully demonstrates the Midpoint Circle Algorithm in C graphics. It illustrates the concept of symmetry to reduce computation (calculating one octant and reflecting points). Adding delays shows step-by-step pixel plotting, which helps in visual learning. Using outtextxy, you can label the circle with text at its center. This code is a good example of basic graphics programming in Turbo C and teaches circle plotting without using the circle() function. 
