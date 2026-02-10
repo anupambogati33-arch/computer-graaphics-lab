@@ -1,4 +1,4 @@
-Title: Bresenhem Line Drawing Algorithm
+ Title: Bresenhem Line Drawing Algorithm
 
 Algorithm:
 
